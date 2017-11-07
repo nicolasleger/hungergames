@@ -1,0 +1,14 @@
+{
+  "name": "hungergames",
+  "description": "Gamification of Open Food Facts using Python and Django",
+  "keywords": [
+    "api",
+    "food",
+    "data",
+    "open"
+  ],
+  "website": "https://github.com/openfoodfacts/hungergames",
+  "logo": "https://openfoodfacts.org/images/misc/openfoodfacts-logo-356.png",
+  "repository": "https://github.com/openfoodfacts/hungergames",
+  "image": "heroku/python"
+}
